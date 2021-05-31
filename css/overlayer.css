@@ -1,0 +1,49 @@
+#white.white{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    background-color:rgba(255,2555,255,0.8)   
+}
+#white .overlayer{
+    width:500px;
+    height:460px;
+    border:10px solid #e03e28;
+    margin:0 auto 0;
+    background-color:#fff;
+    margin-top:100px;
+    text-align:center;
+    position:relative
+}
+#white .over_logo{   
+    margin-top:15px;
+}
+#white .over_text{
+    font-family: 'Oxygen';
+    font-size:24px;
+    letter-spacing:-0.4px;
+    text-transform:uppercase;
+    margin-top:15px;
+}
+#white .over_facebook {
+	margin-top:15px;
+}
+#white .over_button{
+    font-family: 'Oxygen';
+    display:block;
+    padding:10px;
+    color:#fff;
+    background-color:#ce3e27;
+    font-size:12px;
+    width:130PX;
+    margin:0 AUTO 0
+}
+#white .over_button:HOVER{
+    background-color:#e2432a;   
+}
+#white .close{
+    position:absolute;
+    top:10px;
+    right:10px;   
+}
